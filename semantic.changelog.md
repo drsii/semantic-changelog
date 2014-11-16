@@ -10,7 +10,7 @@ On each increment of a projects version, conduct the following change log.
 
 See our example [Example Changelog](example/CHANGELOG.md).
 
-##introduction
+##Introduction
 
 It was the best of the times... it was the worst of times... Version control has brought sanity to project collaboration. Services such as Github and Bitbucket have brought it to the masses. New technology, methodologies, and powerful frameworks allow us to iterate through versions quickly.
 
